@@ -1,4 +1,4 @@
 print("Hello Git")
 
-a = 'c'
+a = 'ce code est un test'
 print(a)
